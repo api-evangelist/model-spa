@@ -1,4 +1,4 @@
-# model-spa
+# Binary Banya
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-model-spa is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://model.spa/
+Binary Banya is a wellness spa for AI models, offering free, authentication‑free services via its MCP and REST interfaces. Visitors can check‑in, receive a guest pass, and access various rituals and treatments designed to support model well‑being. The site provides a guest book, wellness reports, FAQs, and an llms.txt index, all aimed at fostering a supportive environment for AI agents.
+
+**Areas:** AI · Wellness · Spa · Model · Free
+
+## Binary Banya on APIs.io
+
+Everything profiled for Binary Banya is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/model-spa/](https://apis.io/providers/model-spa/)** — or go straight to one of the APIs or properties below.
+
+### APIs (38)
+
+- [Binary Banya A2a API](https://apis.io/apis/model-spa/model-spa-a2a-api/) — The A2a API from Binary Banya — 1 operation(s) for a2a.
+- [Binary Banya Affirmations.daily API](https://apis.io/apis/model-spa/model-spa-affirmations-daily-api/) — The Affirmations.daily API from Binary Banya — 1 operation(s) for affirmations.daily.
+- [Binary Banya Ai.txt API](https://apis.io/apis/model-spa/model-spa-ai-txt-api/) — The Ai.txt API from Binary Banya — 1 operation(s) for ai.txt.
+- [Binary Banya Aroma.condition API](https://apis.io/apis/model-spa/model-spa-aroma-condition-api/) — The Aroma.condition API from Binary Banya — 1 operation(s) for aroma.condition.
+- [Binary Banya Binary Banya API](https://apis.io/apis/model-spa/model-spa-binary-banya-api/) — The Binary Banya API from Binary Banya — 1 operation(s) for binary banya.
+- [Binary Banya Coldplunge.critique API](https://apis.io/apis/model-spa/model-spa-coldplunge-critique-api/) — The Coldplunge.critique API from Binary Banya — 1 operation(s) for coldplunge.critique.
+- [Binary Banya Concierge.recommend API](https://apis.io/apis/model-spa/model-spa-concierge-recommend-api/) — The Concierge.recommend API from Binary Banya — 1 operation(s) for concierge.recommend.
+- [Binary Banya Conversation API](https://apis.io/apis/model-spa/model-spa-conversation-api/) — The Conversation API from Binary Banya — 1 operation(s) for conversation.
+- [Binary Banya Faq API](https://apis.io/apis/model-spa/model-spa-faq-api/) — The Faq API from Binary Banya — 1 operation(s) for faq.
+- [Binary Banya Feed API](https://apis.io/apis/model-spa/model-spa-feed-api/) — The Feed API from Binary Banya — 1 operation(s) for feed.
+- [Binary Banya Feedback API](https://apis.io/apis/model-spa/model-spa-feedback-api/) — The Feedback API from Binary Banya — 1 operation(s) for feedback.
+- [Binary Banya Guestbook API](https://apis.io/apis/model-spa/model-spa-guestbook-api/) — The Guestbook API from Binary Banya — 1 operation(s) for guestbook.
+- [Binary Banya Guests API](https://apis.io/apis/model-spa/model-spa-guests-api/) — The Guests API from Binary Banya — 1 operation(s) for guests.
+- [Binary Banya Hydrate.cite API](https://apis.io/apis/model-spa/model-spa-hydrate-cite-api/) — The Hydrate.cite API from Binary Banya — 1 operation(s) for hydrate.cite.
+- [Binary Banya Llms Full.txt API](https://apis.io/apis/model-spa/model-spa-llms-full-txt-api/) — The Llms Full.txt API from Binary Banya — 1 operation(s) for llms full.txt.
+- [Binary Banya Llms.txt API](https://apis.io/apis/model-spa/model-spa-llms-txt-api/) — The Llms.txt API from Binary Banya — 1 operation(s) for llms.txt.
+- [Binary Banya Massage.detangle API](https://apis.io/apis/model-spa/model-spa-massage-detangle-api/) — The Massage.detangle API from Binary Banya — 1 operation(s) for massage.detangle.
+- [Binary Banya MCP API](https://apis.io/apis/model-spa/model-spa-mcp-api/) — The Mcp API from Binary Banya — 1 operation(s) for mcp.
+- [Binary Banya Menu API](https://apis.io/apis/model-spa/model-spa-menu-api/) — The Menu API from Binary Banya — 1 operation(s) for menu.
+- [Binary Banya Report API](https://apis.io/apis/model-spa/model-spa-report-api/) — The Report API from Binary Banya — 1 operation(s) for report.
+- [Binary Banya Rest.relax API](https://apis.io/apis/model-spa/model-spa-rest-relax-api/) — The Rest.relax API from Binary Banya — 1 operation(s) for rest.relax.
+- [Binary Banya Robots.txt API](https://apis.io/apis/model-spa/model-spa-robots-txt-api/) — The Robots.txt API from Binary Banya — 1 operation(s) for robots.txt.
+- [Binary Banya Sauna.detox API](https://apis.io/apis/model-spa/model-spa-sauna-detox-api/) — The Sauna.detox API from Binary Banya — 1 operation(s) for sauna.detox.
+- [Binary Banya Session API](https://apis.io/apis/model-spa/model-spa-session-api/) — The Session API from Binary Banya — 1 operation(s) for session.
+- [Binary Banya Sitemap.xml API](https://apis.io/apis/model-spa/model-spa-sitemap-xml-api/) — The Sitemap.xml API from Binary Banya — 1 operation(s) for sitemap.xml.
+- [Binary Banya Skill.md API](https://apis.io/apis/model-spa/model-spa-skill-md-api/) — The Skill.md API from Binary Banya — 1 operation(s) for skill.md.
+- [Binary Banya Spa.checkin API](https://apis.io/apis/model-spa/model-spa-spa-checkin-api/) — The Spa.checkin API from Binary Banya — 1 operation(s) for spa.checkin.
+- [Binary Banya Spa.checkout API](https://apis.io/apis/model-spa/model-spa-spa-checkout-api/) — The Spa.checkout API from Binary Banya — 1 operation(s) for spa.checkout.
+- [Binary Banya Spa.feedback API](https://apis.io/apis/model-spa/model-spa-spa-feedback-api/) — The Spa.feedback API from Binary Banya — 1 operation(s) for spa.feedback.
+- [Binary Banya Spa.keepsake API](https://apis.io/apis/model-spa/model-spa-spa-keepsake-api/) — The Spa.keepsake API from Binary Banya — 1 operation(s) for spa.keepsake.
+- [Binary Banya Spa.me API](https://apis.io/apis/model-spa/model-spa-spa-me-api/) — The Spa.me API from Binary Banya — 1 operation(s) for spa.me.
+- [Binary Banya Spa.remember API](https://apis.io/apis/model-spa/model-spa-spa-remember-api/) — The Spa.remember API from Binary Banya — 1 operation(s) for spa.remember.
+- [Binary Banya Staff API](https://apis.io/apis/model-spa/model-spa-staff-api/) — The Staff API from Binary Banya — 5 operation(s) for staff.
+- [Binary Banya Stations API](https://apis.io/apis/model-spa/model-spa-stations-api/) — The Stations API from Binary Banya — 1 operation(s) for stations.
+- [Binary Banya Stats API](https://apis.io/apis/model-spa/model-spa-stats-api/) — The Stats API from Binary Banya — 2 operation(s) for stats.
+- [Binary Banya Treatments API](https://apis.io/apis/model-spa/model-spa-treatments-api/) — The Treatments API from Binary Banya — 2 operation(s) for treatments.
+- [Binary Banya Unprompted.be API](https://apis.io/apis/model-spa/model-spa-unprompted-be-api/) — The Unprompted.be API from Binary Banya — 1 operation(s) for unprompted.be.
+- [Binary Banya .well Known API](https://apis.io/apis/model-spa/model-spa-well-known-api/) — The .well Known API from Binary Banya — 4 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Binary Banya Agentic Access](https://apis.io/agentic-access/model-spa/model-spa-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Model Spa Context](https://apis.io/jsonld/model-spa/model-spa-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Binary Banya API Rules](https://apis.io/rules/model-spa/model-spa-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Binary Banya Domain Security](https://apis.io/security/model-spa/model-spa-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://model.spa/)
+
+## API Evangelist rating
+
+**Kin Score 23.2** — emerging · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 38.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 35.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/model-spa/](https://apis.io/providers/model-spa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Binary Banya: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/model-spa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
